@@ -1,0 +1,48 @@
+.nav-position{
+    margin-left: 890px !important;
+}
+
+.navbar-brand {
+    margin-left: 140px;
+}
+
+.nav-bgColor{
+    background-color: black !important;
+}
+.text, .nav-link{
+    color: white !important;
+}
+.hero-height{
+    height: 700px;
+}
+.about-phut{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.info, .pizzas-type{
+    margin-bottom: 30px;
+}
+.card__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.pizz-type{
+    margin-bottom: 50px;
+}
+.footer-bg{
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.copy-pad{
+    padding-top: 15px;
+}
+.copy-pad a{
+    color: white;
+    text-decoration: none;
+}
+
+.card{
+    width: 18rem;
+}
